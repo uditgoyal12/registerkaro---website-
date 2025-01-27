@@ -81,11 +81,7 @@ const MobileAppShowcase = () => {
           {/* Right Content - Phone Mockups */}
           <div className="lg:w-1/2 relative">
             <div className="relative w-full max-w-md mx-auto">
-              <img 
-                src="/mobile.png" 
-                alt="iPhone Mockup" 
-                className="w-full"
-              />
+             <img src="/mobile.png" alt="iPhone Mockup" class="w-full">
             </div>
           </div>
         </div>
