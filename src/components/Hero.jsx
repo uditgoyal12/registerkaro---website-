@@ -55,11 +55,7 @@ const Hero = () => {
           </div>
 
           <div className="relative">
-            <img
-              src="/hero.png"
-              alt="Business Compliance"
-              className="w-full h-auto"
-            />
+            <img src="/hero.png" alt="Business Compliance" class="w-full h-auto">
             <div className="absolute top-0 right-0 flex flex-col gap-4">
               {['Annual Compliance', 'Payroll Services', 'Company Formation'].map((service) => (
                 <div
